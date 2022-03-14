@@ -2,10 +2,14 @@
 
 # [instaNFT](https://insta-nft.vercel.app)
 
-[InstaNFT](https://insta-nft.vercel.app) is a Cross-Chain social platform for NFTs.
+[GameInsta]() is a Cross-Chain social platform for NFTs.
+
+Discover gaming communities filled with millions of videos, art and discussions
+Buy, Sell, Download Game using crypto
+Gamehive is a decentralized discover game communities hosting platform & empowers game creator distribution and buy,sell with communities easily with add securities via smart contracts.
 
 ## Features
-
+Dicover 
 - Light/dark mode toggle
 - NFT Galleries
 - Custom NFT collections
