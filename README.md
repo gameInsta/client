@@ -1,6 +1,6 @@
 ![gameInsta Cover](https://github.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png)
 
-# [GameInsta i]()
+# [GameInsta]()
 
 [GameInsta]() is a Cross-Chain social platform for NFTs.
 
