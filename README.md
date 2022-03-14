@@ -1,4 +1,4 @@
-![gameInsta Cover](https://raw.githubusercontent.com/gameInsta/client/main/public/images/5K4-5G8.jpeg.jpg?token=GHSAT0AAAAAABSPHLVS6FKQQBE4TCK4HGRKYRO5GBA)
+![gameInsta Cover](https://github.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png)
 
 # [instaNFT](https://insta-nft.vercel.app)
 
